@@ -1,0 +1,9 @@
+1 - First, we want to be able to see a list of files and directories on our computer. The LS command will allow us to do just that! Open the terminal and enter LS. A list of files and directories should appear.
+
+2 - The CD command allows us to change directories. Downloads should be among the directories that were listed in the terminal in the previous step. We can navigate into the Downloads directory by entering the command, CD Downloads.
+
+3 - The PWD command, which is short for "print working directory," will print out the directory that we are currently in to the terminal. Let's check to see if we successfully navigated into the Downloads directory by entering PWD.
+
+Depending on how your machine is set up and where the directory was created, something like the following output should appear in the terminal, with your username in place of the <username>:
+
+
